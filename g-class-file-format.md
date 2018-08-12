@@ -24,7 +24,7 @@ ClassFile {
 ```
 **Magic Number** 必须以```0xCAFEBABE```开头,比如不以此开头，校验失败
 
-Class文件版本号和Java版本对应关系
+Class文件版本号和Java版本对应关系    
 | 大版本 |  小版本  | Java版本 | 
 | -- |  --  | --- |  
 | 45 |  3  | 1.1 |  
